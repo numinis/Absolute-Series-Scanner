@@ -299,7 +299,7 @@ Location:
 - FreeNAS:                                 ${JAIL_ROOT}/var/db/plexdata/Plex Media Server/
 - ReadyNAS:                                /apps/plexmediaserver/MediaLibrary/Plex Media Server/
 /data/plex_conf/Library/Application Support/Plex Media Server
-- Synology, Asustor:                        /Volume1/Plex/Library/Application Support/Plex Media Server/
+- Synology, Asustor:                        /volume1/Plex/Library/Application Support/Plex Media Server/
 - TerraMaster:                              /home/plex/Library/Application Support/Plex Media Server
 - Thecus:                                   /raid/data/module/Plex/sys/Plex Media Server/
 - Western Digital                           /mnt/HD/HD_a2/plex_conf/Plex Media Server/
